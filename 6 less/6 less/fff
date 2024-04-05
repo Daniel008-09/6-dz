@@ -1,0 +1,10 @@
+// let history = new Date(0);
+// console.log(history);
+// console.log(Jasur);
+// console.log(date.getMilliseconds());
+// console.log(date.getSeconds());
+// console.log(date.getHours());
+// console.log(date.getDate());
+// console.log(date.getDay());
+// console.log(date.getMonth());
+// console.log(date.getFullYear);
